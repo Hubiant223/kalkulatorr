@@ -1,0 +1,45 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: url("PWCursor.jpg"), auto;
+}
+header{
+    height: 85px;
+    font-size: 30px;
+    color: rgb(82, 82, 221);
+    text-align: center;
+    background-color: black;
+    cursor: url("PWCursor.jpg"), auto;
+    
+}
+
+main{
+    background-image: url("https://media.giphy.com/media/3NeSk2IVEd2FYUQEcM/giphy.gif");
+    background-size: cover;  
+    height: 700px;
+    cursor: url("PWCursor.jpg"), auto;
+    
+       
+}
+.blok{
+    float: left;
+    width: 35%;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.616);
+    margin-left: 10%;
+    margin-top: 7%;
+    text-align: center;
+    cursor: url("PWCursor.jpg"), auto;
+}
+h1{
+        color: rgb(0, 0, 0);    
+        border: 5px solid white;
+        width : 550px;
+        height: 70px;
+        margin-left: 500px;
+        text-align: center;
+        font-size: 1em;
+        text-transform: uppercase;
+        background-image: url("https://media.giphy.com/media/6wpHEQNjkd74Q/giphy.gif");
+        -webkit-text-stroke: 1px red;
+        cursor: url("PWCursor.jpg"), auto;
+}
